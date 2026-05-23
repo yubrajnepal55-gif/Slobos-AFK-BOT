@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "24/7",
+    "password": "skyblockjava222452.aternos.me",
     "type": "offline"
   },
   "server": {
     "ip": "skylbockmcsmpjava.aternos.me",
-    "port": 35805,
+    "port": 47768,
     "version": "1.21.1"
   },
   "position": {
